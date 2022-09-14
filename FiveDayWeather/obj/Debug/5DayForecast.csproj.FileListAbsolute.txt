@@ -1,0 +1,30 @@
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\bin\5DayForecast.dll.config
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\bin\5DayForecast.dll
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\bin\5DayForecast.pdb
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\obj\Debug\5DayForecast.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\obj\Debug\5DayForecast.dll
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\obj\Debug\5DayForecast.pdb
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\bin\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\bin\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\obj\Debug\5DayForecast.csproj.CopyComplete
+C:\Users\Artem\Desktop\Assignment3\5DayForecast\obj\Debug\5DayForecast.csproj.AssemblyReference.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\bin\5DayForecast.dll.config
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\bin\5DayForecast.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\bin\5DayForecast.pdb
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\bin\Newtonsoft.Json.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\bin\Newtonsoft.Json.xml
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\obj\Debug\5DayForecast.csproj.AssemblyReference.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\obj\Debug\5DayForecast.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\obj\Debug\5DayForecast.csproj.CopyComplete
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\obj\Debug\5DayForecast.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page4\obj\Debug\5DayForecast.pdb
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\bin\5DayForecast.dll.config
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\bin\5DayForecast.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\bin\5DayForecast.pdb
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\bin\Newtonsoft.Json.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\bin\Newtonsoft.Json.xml
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\obj\Debug\5DayForecast.csproj.AssemblyReference.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\obj\Debug\5DayForecast.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\obj\Debug\5DayForecast.csproj.CopyComplete
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\obj\Debug\5DayForecast.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\FiveDayWeather\obj\Debug\5DayForecast.pdb
