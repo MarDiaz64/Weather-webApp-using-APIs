@@ -1,0 +1,11 @@
+C:\Users\Artem\source\repos\SolarAPI\bin\SolarAPI.dll.config
+C:\Users\Artem\source\repos\SolarAPI\bin\SolarAPI.dll
+C:\Users\Artem\source\repos\SolarAPI\bin\SolarAPI.pdb
+C:\Users\Artem\source\repos\SolarAPI\bin\Newtonsoft.Json.dll
+C:\Users\Artem\source\repos\SolarAPI\bin\Newtonsoft.Json.xml
+C:\Users\Artem\source\repos\SolarAPI\obj\Debug\SolarAPI.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\SolarAPI\obj\Debug\SolarAPI.csproj.CopyComplete
+C:\Users\Artem\source\repos\SolarAPI\obj\Debug\SolarAPI.dll
+C:\Users\Artem\source\repos\SolarAPI\obj\Debug\SolarAPI.pdb
+C:\Users\Artem\source\repos\SolarAPI\obj\Debug\SolarAPI.csproj.AssemblyReference.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page5\obj\Debug\SolarAPI.csproj.AssemblyReference.cache
