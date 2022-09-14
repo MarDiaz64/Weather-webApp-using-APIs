@@ -5,6 +5,6 @@ Will not likley work if downloaded & tested due to the configurations of the ser
 
 Created with Visual Studio 2022
 
-Example of how the program looks ([] means that these would be loaded using the APIs wrappers who's implmeentation is also listed in the project):
+Example of how the program looks ([x] means that these would be loaded using API calls who's implmentation is also listed in the project):
 ![image](https://user-images.githubusercontent.com/90005561/190052774-0af65d90-ee88-4832-94bc-1622566dd71b.png)
 
