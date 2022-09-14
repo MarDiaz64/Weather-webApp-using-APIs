@@ -1,0 +1,6 @@
+C:\Users\Artem\source\repos\Restful_L5\bin\Restful_L5.dll.config
+C:\Users\Artem\source\repos\Restful_L5\bin\Restful_L5.dll
+C:\Users\Artem\source\repos\Restful_L5\bin\Restful_L5.pdb
+C:\Users\Artem\source\repos\Restful_L5\obj\Debug\Restful_L5.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Restful_L5\obj\Debug\Restful_L5.dll
+C:\Users\Artem\source\repos\Restful_L5\obj\Debug\Restful_L5.pdb

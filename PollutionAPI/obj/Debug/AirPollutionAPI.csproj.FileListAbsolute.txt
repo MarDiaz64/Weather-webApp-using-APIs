@@ -1,0 +1,29 @@
+C:\Users\Artem\source\repos\Restful_L5\bin\Restful_L5.dll.config
+C:\Users\Artem\source\repos\Restful_L5\bin\Restful_L5.dll
+C:\Users\Artem\source\repos\Restful_L5\bin\Restful_L5.pdb
+C:\Users\Artem\source\repos\Restful_L5\bin\Newtonsoft.Json.dll
+C:\Users\Artem\source\repos\Restful_L5\bin\Newtonsoft.Json.xml
+C:\Users\Artem\source\repos\Restful_L5\obj\Debug\AirPollutionAPI.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Restful_L5\obj\Debug\AirPollutionAPI.csproj.CopyComplete
+C:\Users\Artem\source\repos\Restful_L5\obj\Debug\Restful_L5.dll
+C:\Users\Artem\source\repos\Restful_L5\obj\Debug\Restful_L5.pdb
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\bin\Restful_L5.dll.config
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\bin\Restful_L5.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\bin\Restful_L5.pdb
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\bin\Newtonsoft.Json.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\bin\Newtonsoft.Json.xml
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\obj\Debug\AirPollutionAPI.csproj.AssemblyReference.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\obj\Debug\AirPollutionAPI.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\obj\Debug\AirPollutionAPI.csproj.CopyComplete
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\obj\Debug\Restful_L5.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\Page6\obj\Debug\Restful_L5.pdb
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\bin\Restful_L5.dll.config
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\bin\Restful_L5.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\bin\Restful_L5.pdb
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\bin\Newtonsoft.Json.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\bin\Newtonsoft.Json.xml
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\obj\Debug\AirPollutionAPI.csproj.AssemblyReference.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\obj\Debug\AirPollutionAPI.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\obj\Debug\AirPollutionAPI.csproj.CopyComplete
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\obj\Debug\Restful_L5.dll
+C:\Users\Artem\Downloads\CombinedTryIt (1)\CombinedTryIt\PollutionAPI\obj\Debug\Restful_L5.pdb
